@@ -8,3 +8,12 @@
 > 
 > 这是提示的内容`main`
 
+### 这是一个Python代码例子
+``` Python
+import numpy as np
+import sys
+import Matplotlib
+
+def mian():
+    print('hello,world!')
+```
