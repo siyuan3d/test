@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/test/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/exe.dir/main.cpp.o -c /workspaces/test/main.cpp",
+  "file": "/workspaces/test/main.cpp"
+}
+]
